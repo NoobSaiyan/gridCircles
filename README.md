@@ -1,1 +1,3 @@
 # gridCircles
+
+![Screenshot](screenshot.png)
